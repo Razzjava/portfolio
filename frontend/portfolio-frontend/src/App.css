@@ -1,0 +1,22 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s ease;
+  }
+  
+  .dark-mode {
+    background-color: #282c36;
+    color: #ffffff;
+  }
+  
+  .App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: #282c36;
+    padding: 20px;
+    color: #61dafb;
+  }
+  
